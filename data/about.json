@@ -1,0 +1,11 @@
+[
+  {
+    "id": "84e96018-4022-434e-80bf-000ce4cd12b8",
+    "title": "How to use the website:",
+    "image": "http://localhost:8080/images/logo.png",
+    "description": "Why I made the website...",
+    "stack": "Tech Stack: HTML, CSS, React, Node.js, Express",
+    "credits": "API: https://docs.every.org/docs/intro",
+    "fact": "Information/Facts about charities..."
+  }
+]
