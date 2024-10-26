@@ -1,9 +1,9 @@
 [
   {
     "id": "84e96018-4022-434e-80bf-000ce4cd12b8",
-    "title": "How to use the website:",
+    "title": "How to use the website: Click on one of the buttons to discover a list of charites related to that cause. If you want, you can click on a charity to visit their website and make a donation.",
     "image": "http://localhost:8080/images/logo.png",
-    "description": "Why I made the website...",
+    "description": "Why I made the website: The purpose of this site to to create visiblity of lesser known charities, and raise awareness about non-profit's that are depending on donations...",
     "stack": "Tech Stack: HTML, CSS, React, Node.js, Express",
     "credits": "API: https://docs.every.org/docs/intro",
     "fact": "Information/Facts about charities..."
