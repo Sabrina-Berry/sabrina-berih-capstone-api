@@ -2,7 +2,7 @@ import express from "express";
 import cors from "cors";
 import "dotenv/config";
 import fs from "fs";
-''
+
 const { PORT, BACKEND_URL } = process.env;
 
 const app = express();
