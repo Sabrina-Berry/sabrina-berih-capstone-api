@@ -3,7 +3,7 @@
     "id": "84e96018-4022-434e-80bf-000ce4cd12b8",
     "title": "How to use the website:",
     "title_text": "Click on one of the buttons to discover a list of charites related to that cause. If you want, you can click on a charity to visit their website and make a donation.",
-    "image": "http://localhost:8080/images/logo.png",
+    "image": "about-page444.netlify.app/images/logo.png",
     "description": "Why is this important?",
     "description_text": "The purpose of this site is to increase visiblity of lesser known charities, and to raise awareness about non-profit's that are depending on donations.",
     "stack": "Tech Stack:",
